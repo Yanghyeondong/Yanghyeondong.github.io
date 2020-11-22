@@ -10,8 +10,8 @@ remote_theme: SupunKavinda/jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: 
+  github:
 
 plugins:
  - jekyll-feed
